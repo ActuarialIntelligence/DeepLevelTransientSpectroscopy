@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActuarialIntelligence.DLTS.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActuarialIntelligence.DLTS.Infrastructure", "ActuarialIntelligence.DLTS.Infrastructure\ActuarialIntelligence.DLTS.Infrastructure.csproj", "{68A753B0-B22E-4672-AFB3-CCBED28C4A05}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActuarialIntelligence.DLTS.EXE", "ActuarialIntelligence.DLTS.EXE\ActuarialIntelligence.DLTS.EXE.csproj", "{B1066B35-3986-437D-8A66-4307C6FE438C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{68A753B0-B22E-4672-AFB3-CCBED28C4A05}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68A753B0-B22E-4672-AFB3-CCBED28C4A05}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68A753B0-B22E-4672-AFB3-CCBED28C4A05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1066B35-3986-437D-8A66-4307C6FE438C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1066B35-3986-437D-8A66-4307C6FE438C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1066B35-3986-437D-8A66-4307C6FE438C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1066B35-3986-437D-8A66-4307C6FE438C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
