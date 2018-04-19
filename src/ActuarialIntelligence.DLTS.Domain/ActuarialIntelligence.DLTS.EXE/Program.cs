@@ -7,6 +7,7 @@ namespace ActuarialIntelligence.DLTS.EXE
         static void Main(string[] args)
         {
             var result = Noise.EmulateNoiseOverNPeriods(300, 9, 64);
+            var strResult = Noise.GetPointsAsString();
         }
     }
 }

@@ -9,5 +9,10 @@
             this.y = y;
             this.x = x;
         }
+
+        public override string ToString()
+        {
+            return x.ToString() + "|" + y.ToString();
+        }
     }
 }
