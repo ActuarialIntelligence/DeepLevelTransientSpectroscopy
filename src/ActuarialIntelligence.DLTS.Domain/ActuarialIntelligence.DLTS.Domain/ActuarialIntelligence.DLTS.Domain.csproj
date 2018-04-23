@@ -49,6 +49,7 @@
     <Compile Include="Matrix\_nMatrix.cs" />
     <Compile Include="Matrix\_nVector.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Quadrature.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
